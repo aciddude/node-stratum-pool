@@ -34,7 +34,7 @@
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
         "bignum": "^0.12.5",
-        "blake2s" "1.1.0",
+        "blake2s": "1.1.0",
         "multi-hashing": "git://github.com/aciddude/node-multi-hashing.git"
     },
     "engines": {
